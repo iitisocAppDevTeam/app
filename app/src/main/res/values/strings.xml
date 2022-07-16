@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">trial model</string>
+    <string name="textview">LOGIN</string>
+    <string name="student">STUDENT</string>
+    <string name="register_yourself">REGISTER YOURSELF</string>
+    <string name="admin">ADMIN</string>
+</resources>
